@@ -1,0 +1,166 @@
+[INFO ] 2015-10-11 17:37:29,524 - Initialize zone id.
+[ERROR] 2015-10-11 17:37:29,528 - C:\Users\Yijing\Documents\01.Code\01.Java\yijinglu-thesis\resources\inputs\ZONE_ID.txt (The system cannot find the path specified)
+java.io.FileNotFoundException: C:\Users\Yijing\Documents\01.Code\01.Java\yijinglu-thesis\resources\inputs\ZONE_ID.txt (The system cannot find the path specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:97)
+	at umd.lu.thesis.pums2010.NationalTravelDemand.initZoneId(NationalTravelDemand.java:477)
+	at umd.lu.thesis.pums2010.NationalTravelDemand.<init>(NationalTravelDemand.java:72)
+	at umd.lu.thesis.pums2010.DurationPrediction.<init>(DurationPrediction.java:24)
+	at umd.lu.thesis.pums2010.DurationPrediction.main(DurationPrediction.java:30)
+[INFO ] 2015-10-11 17:38:26,836 - Initialize zone id.
+[INFO ] 2015-10-11 17:51:07,011 - Initialize zone id.
+[INFO ] 2015-10-11 17:51:50,604 - Initialize zone id.
+[INFO ] 2015-10-11 17:53:08,390 - Initialize zone id.
+[INFO ] 2015-10-11 17:54:13,284 - Initialize zone id.
+[INFO ] 2015-10-11 17:55:06,422 - Initialize zone id.
+[INFO ] 2015-10-11 17:57:53,756 - Initialize zone id.
+[INFO ] 2015-10-11 17:57:54,969 - Initialize zone id.
+[INFO ] 2015-10-11 17:57:54,977 - Initialize otherCarMap.
+[ERROR] 2015-10-11 17:57:54,978 - C:\Users\Yijing\Documents\01.Code\01.Java\yijinglu-thesis\resources\inputs\ODSKIM_Car_PPB_2010.txt (The system cannot find the path specified)
+java.io.FileNotFoundException: C:\Users\Yijing\Documents\01.Code\01.Java\yijinglu-thesis\resources\inputs\ODSKIM_Car_PPB_2010.txt (The system cannot find the path specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:97)
+	at umd.lu.thesis.pums2010.math.Math.initOtherCarMap(Math.java:1421)
+	at umd.lu.thesis.pums2010.math.Math.<init>(Math.java:567)
+	at umd.lu.thesis.pums2010.NationalTravelDemand.<init>(NationalTravelDemand.java:98)
+	at umd.lu.thesis.pums2010.DurationPrediction.<init>(DurationPrediction.java:24)
+	at umd.lu.thesis.pums2010.DurationPrediction.main(DurationPrediction.java:29)
+[INFO ] 2015-10-11 17:58:54,965 - Initialize zone id.
+[INFO ] 2015-10-11 17:58:56,195 - Initialize zone id.
+[INFO ] 2015-10-11 17:58:56,203 - Initialize otherCarMap.
+[INFO ] 2015-10-11 17:58:56,933 - Initialize businessCarMap.
+[INFO ] 2015-10-11 17:58:57,564 - Initialize airMap.
+[INFO ] 2015-10-11 17:58:57,767 - Initialize trainMap.
+[INFO ] 2015-10-11 17:58:57,820 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 17:58:58,476 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 17:58:58,499 - Started pre-calculate logsum.
+[INFO ] 2015-10-11 17:59:41,506 - Initialize zone id.
+[INFO ] 2015-10-11 17:59:42,726 - Initialize zone id.
+[INFO ] 2015-10-11 17:59:42,735 - Initialize otherCarMap.
+[INFO ] 2015-10-11 17:59:43,381 - Initialize businessCarMap.
+[INFO ] 2015-10-11 17:59:43,859 - Initialize airMap.
+[INFO ] 2015-10-11 17:59:44,050 - Initialize trainMap.
+[INFO ] 2015-10-11 17:59:44,087 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 17:59:44,511 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 17:59:44,517 - Started pre-calculate logsum.
+[INFO ] 2015-10-11 18:00:41,787 - Initialize zone id.
+[INFO ] 2015-10-11 18:00:43,005 - Initialize zone id.
+[INFO ] 2015-10-11 18:00:43,013 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:00:43,658 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:00:44,177 - Initialize airMap.
+[INFO ] 2015-10-11 18:00:44,317 - Initialize trainMap.
+[INFO ] 2015-10-11 18:00:44,354 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:00:44,851 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 18:01:19,287 - Initialize zone id.
+[INFO ] 2015-10-11 18:01:20,553 - Initialize zone id.
+[INFO ] 2015-10-11 18:01:20,562 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:01:21,245 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:01:21,812 - Initialize airMap.
+[INFO ] 2015-10-11 18:01:21,951 - Initialize trainMap.
+[INFO ] 2015-10-11 18:01:21,988 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:01:22,487 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 18:04:53,823 - Initialize zone id.
+[INFO ] 2015-10-11 18:04:55,075 - Initialize zone id.
+[INFO ] 2015-10-11 18:04:55,084 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:04:55,808 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:04:56,355 - Initialize airMap.
+[INFO ] 2015-10-11 18:04:56,497 - Initialize trainMap.
+[INFO ] 2015-10-11 18:04:56,539 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:04:57,036 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 18:05:09,309 - Initialize zone id.
+[INFO ] 2015-10-11 18:05:10,555 - Initialize zone id.
+[INFO ] 2015-10-11 18:05:10,563 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:05:11,238 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:05:11,785 - Initialize airMap.
+[INFO ] 2015-10-11 18:05:11,926 - Initialize trainMap.
+[INFO ] 2015-10-11 18:05:11,964 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:05:12,471 - Initialize msaEmpMap.
+[ERROR] 2015-10-11 18:05:12,497 - 
+java.lang.NullPointerException
+	at umd.lu.thesis.pums2010.math.Math.tdHT(Math.java:775)
+	at umd.lu.thesis.pums2010.math.Math.tdPT(Math.java:826)
+	at umd.lu.thesis.pums2010.math.Math.tdST(Math.java:832)
+	at umd.lu.thesis.pums2010.NationalTravelDemand.findTourDuration(NationalTravelDemand.java:279)
+	at umd.lu.thesis.pums2010.DurationPrediction.main(DurationPrediction.java:51)
+[INFO ] 2015-10-11 18:05:39,387 - Initialize zone id.
+[INFO ] 2015-10-11 18:05:40,649 - Initialize zone id.
+[INFO ] 2015-10-11 18:05:40,658 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:05:41,361 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:05:41,858 - Initialize airMap.
+[INFO ] 2015-10-11 18:05:42,082 - Initialize trainMap.
+[INFO ] 2015-10-11 18:05:42,124 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:05:42,565 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 18:25:56,959 - Initialize zone id.
+[INFO ] 2015-10-11 18:25:58,209 - Initialize zone id.
+[INFO ] 2015-10-11 18:25:58,217 - Initialize otherCarMap.
+[INFO ] 2015-10-11 18:25:58,893 - Initialize businessCarMap.
+[INFO ] 2015-10-11 18:25:59,467 - Initialize airMap.
+[INFO ] 2015-10-11 18:25:59,609 - Initialize trainMap.
+[INFO ] 2015-10-11 18:25:59,648 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 18:26:00,140 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 21:56:33,626 - Initialize zone id.
+[INFO ] 2015-10-11 21:56:34,880 - Initialize zone id.
+[INFO ] 2015-10-11 21:56:34,889 - Initialize otherCarMap.
+[INFO ] 2015-10-11 21:56:35,573 - Initialize businessCarMap.
+[INFO ] 2015-10-11 21:56:36,147 - Initialize airMap.
+[INFO ] 2015-10-11 21:56:36,287 - Initialize trainMap.
+[INFO ] 2015-10-11 21:56:36,325 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 21:56:36,828 - Initialize msaEmpMap.
+[ERROR] 2015-10-11 21:56:36,857 - String index out of range: -1
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(String.java:1904)
+	at umd.lu.thesis.helper.ExcelUtils.getColumnValue(ExcelUtils.java:21)
+	at umd.lu.thesis.pums2010.DurationPrediction.main(DurationPrediction.java:43)
+[INFO ] 2015-10-11 21:57:51,578 - Initialize zone id.
+[INFO ] 2015-10-11 21:57:52,828 - Initialize zone id.
+[INFO ] 2015-10-11 21:57:52,836 - Initialize otherCarMap.
+[INFO ] 2015-10-11 21:57:53,533 - Initialize businessCarMap.
+[INFO ] 2015-10-11 21:57:54,112 - Initialize airMap.
+[INFO ] 2015-10-11 21:57:54,251 - Initialize trainMap.
+[INFO ] 2015-10-11 21:57:54,290 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 21:57:54,798 - Initialize msaEmpMap.
+[INFO ] 2015-10-11 21:58:18,671 - Initialize zone id.
+[INFO ] 2015-10-11 21:58:19,917 - Initialize zone id.
+[INFO ] 2015-10-11 21:58:19,925 - Initialize otherCarMap.
+[INFO ] 2015-10-11 21:58:20,621 - Initialize businessCarMap.
+[INFO ] 2015-10-11 21:58:21,187 - Initialize airMap.
+[INFO ] 2015-10-11 21:58:21,334 - Initialize trainMap.
+[INFO ] 2015-10-11 21:58:21,374 - Initialize quarterAirMap.
+[INFO ] 2015-10-11 21:58:21,887 - Initialize msaEmpMap.
+[INFO ] 2015-10-12 21:40:51,328 - Initialize zone id.
+[INFO ] 2015-10-12 21:40:52,630 - Initialize zone id.
+[INFO ] 2015-10-12 21:40:52,632 - Initialize otherCarMap.
+[INFO ] 2015-10-12 21:40:53,268 - Initialize businessCarMap.
+[INFO ] 2015-10-12 21:40:53,917 - Initialize airMap.
+[INFO ] 2015-10-12 21:40:54,540 - Initialize trainMap.
+[INFO ] 2015-10-12 21:40:54,604 - Initialize quarterAirMap.
+[INFO ] 2015-10-12 21:40:55,324 - Initialize msaEmpMap.
+[INFO ] 2015-10-12 21:40:55,375 - NationalTravelDemand Simulation Started. Start Row: 1, End Row: 2000, bulkSize: 2000
+[INFO ] 2015-10-12 21:40:55,375 - Started pre-calculate logsum.
+[INFO ] 2015-10-12 21:42:09,635 - Completed. quarter0 size: 1296180, quarter1 size: 1296180, quarter2 size: 1296180, quarter3 size: 1296180, quarter4 size: 1296180
+[INFO ] 2015-10-12 21:46:13,261 - Initialize zone id.
+[INFO ] 2015-10-12 21:46:13,829 - Initialize zone id.
+[INFO ] 2015-10-12 21:46:13,831 - Initialize otherCarMap.
+[INFO ] 2015-10-12 21:46:14,411 - Initialize businessCarMap.
+[INFO ] 2015-10-12 21:46:14,884 - Initialize airMap.
+[INFO ] 2015-10-12 21:46:15,096 - Initialize trainMap.
+[INFO ] 2015-10-12 21:46:15,130 - Initialize quarterAirMap.
+[INFO ] 2015-10-12 21:46:15,479 - Initialize msaEmpMap.
+[INFO ] 2015-10-12 21:46:15,500 - NationalTravelDemand Simulation Started. Start Row: 1, End Row: 2000, bulkSize: 2000
+[INFO ] 2015-10-12 21:46:15,500 - Started pre-calculate logsum.
+[INFO ] 2015-10-12 21:47:27,887 - Completed. quarter0 size: 1296180, quarter1 size: 1296180, quarter2 size: 1296180, quarter3 size: 1296180, quarter4 size: 1296180
+[INFO ] 2015-10-12 21:47:28,257 - Total rows: 158671212
+[INFO ] 2015-10-12 21:50:30,577 - Initialize zone id.
+[INFO ] 2015-10-12 21:50:31,573 - Initialize zone id.
+[INFO ] 2015-10-12 21:50:31,576 - Initialize otherCarMap.
+[INFO ] 2015-10-12 21:50:32,194 - Initialize businessCarMap.
+[INFO ] 2015-10-12 21:50:32,668 - Initialize airMap.
+[INFO ] 2015-10-12 21:50:32,877 - Initialize trainMap.
+[INFO ] 2015-10-12 21:50:32,913 - Initialize quarterAirMap.
+[INFO ] 2015-10-12 21:50:33,334 - Initialize msaEmpMap.
+[INFO ] 2015-10-12 21:50:33,358 - NationalTravelDemand Simulation Started. Start Row: 1, End Row: 2000, bulkSize: 2000
+[INFO ] 2015-10-12 21:50:33,358 - Started pre-calculate logsum.
+[INFO ] 2015-10-12 21:51:48,908 - Completed. quarter0 size: 1296180, quarter1 size: 1296180, quarter2 size: 1296180, quarter3 size: 1296180, quarter4 size: 1296180
+[INFO ] 2015-10-12 21:51:49,064 - Total rows: 158671212
